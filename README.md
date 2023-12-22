@@ -3,7 +3,7 @@ DLIP: Dense Contrastive Language-Image Pre-Training - Official Implementation
 
 ## News 📢
 
-- **[2023-12-23]** - 🚀 Launched the DLIP code repository! We are currently organizing 🧹 the code and data for easy open-source access. Additionally, we are excited to announce that our paper detailing the DLIP project is in the final stages of preparation and will be published soon. Stay tuned! 🌟
+- **[2023-12-23]** - 🚀 Launched the DLIP code repository! We are currently organizing the code and data for easy open-source access. Additionally, we are excited to announce that our paper detailing the DLIP project is in the final stages of preparation and will be published soon. Stay tuned! 🌟
 
 
 
