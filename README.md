@@ -1,9 +1,9 @@
-# DLIP
-DLIP: Dense Contrastive Language-Image Pre-Training - Official Implementation
+# DELIP
+DELIP: Dense Enhanced Language-Image Pretraining - Official Implementation
 
 ## News 📢
 
-- **[2023-12-23]** - 🚀 Launched the DLIP code repository! We are currently organizing the code and data for easy open-source access. Additionally, we are excited to announce that our paper detailing the DLIP project is in the final stages of preparation and will be published soon. Stay tuned! 🌟
+- **[2023-12-23]** - 🚀 Launched the DELIP code repository! We are currently organizing the code and data for easy open-source access. Additionally, we are excited to announce that our paper detailing the DELIP project is in the final stages of preparation and will be published soon. Stay tuned! 🌟
 
 
 
@@ -13,16 +13,16 @@ In this project, we have gathered a large number of high-quality `<image, dense 
 
 ## Citation
 
-If you find DLIP useful in your research, please consider citing our work:
+If you find DELIP useful in your research, please consider citing our work:
 
 ```bibtex
-@misc{DLIP2023,
-  title={DLIP: Dense Contrastive Language-Image Pre-Training},
+@misc{DELIP2023,
+  title={DELIP: Dense Enhanced Language-Image Pretraining},
   author={Zhiyuan Fan and Zhihong Chen and Benyou Wang},
   year={2023},
   publisher={GitHub},
   journal={GitHub repository},
-  howpublished={\url{https://github.com/Elvisambition/DLIP}}
+  howpublished={\url{https://github.com/Elvisambition/DELIP}}
 }
 
 ```
