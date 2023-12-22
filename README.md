@@ -8,6 +8,8 @@ DLIP: Dense Contrastive Language-Image Pre-Training - Official Implementation
 
 ## Introduction
 
+In this project, we have gathered a large number of high-quality `<image, dense caption>` pairs. By initializing with the CLIP model, we've conducted continue pre-training to enhance model's capabilities. A key improvement in our method is increasing the token limit from 77 to 2k. This expansion allows our model to handle more detailed and precise alignments between images and text.
+
 ## Citation
 
 If you find DLIP useful in your research, please consider citing our work:
