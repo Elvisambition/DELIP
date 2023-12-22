@@ -1,6 +1,8 @@
 # DLIP
 DLIP: Dense Contrastive Language-Image Pre-Training - Official Implementation
 
+## Introduction
+
 ## Citation
 
 If you find DLIP useful in your research, please consider citing our work:
