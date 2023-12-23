@@ -1,5 +1,5 @@
 # DELIP
-DELIP: Dense Enhanced Language-Image Pretraining - Official Implementation
+DELIP: Dense Enhanced Language-Image Pretraining
 
 ## News 📢
 
