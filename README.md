@@ -3,11 +3,9 @@ DELIP: Dense Enhanced Language-Image Pretraining - Official Implementation
 
 ## News 📢
 
-- **[2023-12-23]** - Our preliminary base model, `delip-vit-large-512-v0.1`, is now available. Check it out here: [delip-vit-large-512-v0.1](https://huggingface.co/Zhiyuan-Fan/delip-vit-large-512-v0.1).
+- **[2023-12-23]** - Our preliminary base model, `delip-vit-large-512-v0.1`, is now available 🤗. Check it out here: [delip-vit-large-512-v0.1](https://huggingface.co/Zhiyuan-Fan/delip-vit-large-512-v0.1).
 
 - **[2023-12-23]** - 🚀 Launched the DELIP code repository! We are currently organizing the code and data for easy open-source access. Additionally, we are excited to announce that our paper detailing the DELIP project is in the final stages of preparation and will be published soon. Stay tuned! 🌟
-
-
 
 ## Introduction
 
